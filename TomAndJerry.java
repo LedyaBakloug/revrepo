@@ -15,4 +15,8 @@ public class TomAndJerry {
     public void m5() {
         System.out.println("m5()");
     }
+
+    public void m4() {
+        System.out.println("m4()");
+    }
 }

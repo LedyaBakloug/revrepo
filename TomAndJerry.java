@@ -9,6 +9,6 @@ public class TomAndJerry {
     }
 
     public void m3() {
-        System.out.println("m-three()");
-
+        System.out.println("m3()");
+    }
 }
